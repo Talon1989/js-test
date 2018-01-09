@@ -1,0 +1,22 @@
+#game{ // css for div tag game
+	width: 200px;
+	float: left;
+}
+
+#startover{ // css for div tag startover
+	width: 100px;
+	height: 25px;
+	text-align: center;
+	padding-top: 5px;
+	float: right;
+}
+
+.hoverOut{
+	color: red;
+	background-color: yellow;
+}
+
+.hoverIn{
+	color: yellow;
+	background-color: red;
+}
